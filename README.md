@@ -1,2 +1,3 @@
 # dwp-cinema-tickets-java
-DWP take home task
+DWP take home task written in Java.
+
